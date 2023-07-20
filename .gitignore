@@ -1,0 +1,13 @@
+.idea/*
+.DS_Store
+__pycache__
+run_scripts/vqa/vqa_checkpoints/
+run_scripts/vqa/vqa_logs/
+run_scripts/vqa/tensorboard
+results/
+run_scripts/**/wandb/
+run_scripts/**/*checkpoints
+run_scripts/**/*logs
+run_scripts/**/core
+ofa-data
+datasets/
